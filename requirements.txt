@@ -1,7 +1,5 @@
-langchain
-OpenAI
-PyPDF2
 python-dotenv
+PyPDF2
 streamlit
-faiss-cpu
-streamlit-extras
+langchain
+openai
