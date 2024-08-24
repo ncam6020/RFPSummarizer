@@ -1,6 +1,5 @@
 from dotenv import load_dotenv
 import streamlit as st
-import time
 from PyPDF2 import PdfReader
 from streamlit_extras.add_vertical_space import add_vertical_space
 from langchain.text_splitter import CharacterTextSplitter
@@ -9,6 +8,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 from langchain.callbacks import get_openai_callback
+
 
 
 # Sidebar contents
