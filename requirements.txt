@@ -1,6 +1,6 @@
 python-dotenv
 PyPDF2
 streamlit
-langchain
+langchain==0.0.152
 openai
 streamlit_extras
