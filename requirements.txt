@@ -4,3 +4,4 @@ streamlit
 langchain==0.0.152
 openai
 streamlit_extras
+tiktoken
