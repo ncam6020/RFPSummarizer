@@ -1,6 +1,7 @@
-python-dotenv
-PyPDF2
-streamlit
 langchain
-openai
-streamlit_extras
+OpenAI
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
