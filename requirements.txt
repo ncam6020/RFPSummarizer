@@ -1,7 +1,3 @@
-pip install python-dotenv PyPDF2 streamlit langchain openai
-
-#or install all the following
-
 python-dotenv
 PyPDF2
 streamlit
