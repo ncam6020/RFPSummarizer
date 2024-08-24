@@ -3,3 +3,4 @@ PyPDF2
 streamlit
 langchain
 openai
+streamlit_extras
